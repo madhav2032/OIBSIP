@@ -7,7 +7,7 @@ Welcome to the Oasis Infobyte Internship Projects repository! This repository co
 1. **OASIS Task-1 - Responsive Landing Page**
    </br></br>
    <img alt="Responsive Landing Page" src="https://github.com/madhav2032/OIBSIP/blob/main/Responsive%20Landing%20page/coffee.png" />
-   - Description: Welcome to the Gaming Console Hub Landing Page! This landing page showcases the latest gaming consoles, providing users with information about various gaming options. It's built using HTML, CSS, and JavaScript, offering an engaging and interactive experience.
+   - Description: Welcome to the Coffee Shop Landing Page! This landing page showcases the various types of coffee, providing users easy ordering and free delivery. It's built using HTML, CSS, and JavaScript, offering an engaging and interactive experience.
    - Technologies Used: HTML, CSS, JavaScript.
 
    - [Demo Link](https://madhav2032.github.io/Responsive-Landing-Page/)
@@ -16,15 +16,15 @@ Welcome to the Oasis Infobyte Internship Projects repository! This repository co
    </br></br>
    <img alt="Personal Portfolio Website" src="https://github.com/madhav2032/OIBSIP/blob/main/Personal%20Portfolio%20Website/portfolio.png" />
    - Description: This portfolio showcases my projects, skills, and experiences. Feel free to explore the different sections and projects!
-   - Technologies Used: React.js, JavaScript, CSS3, HTML, VsCode, Vercel
+   - Technologies Used: JavaScript, CSS3, HTML, VsCode
 
    - [Demo Link](https://madhav2032.github.io/Personal-Portfolio-Website/)
 </br></br>
 3. **OASIS_WD_05 - Temprature Converter Website**
     </br></br>
    <img alt="Weather App" src="https://github.com/madhav2032/OIBSIP/blob/main/Temperature%20Converter%20Website/temp.png" />
-   - Description: This project is a simple yet powerful Temperature Converter built with HTML, CSS, JavaScript, and Bootstrap. Enter a temperature in Celsius, Fahrenheit, or Kelvin, and convert it to your desired unit!
-   - Technologies Used: HTML, CSS, JavaScript (jQuery), Bootstrap 4.6, VsCode, Vercel
+   - Description: This project is a simple yet powerful Temperature Converter built with HTML, CSS and JavaScript. Enter a temperature in Celsius, Fahrenheit, or Kelvin, and convert it to your desired unit!
+   - Technologies Used: HTML, CSS, JavaScript and VsCode
  
    - [Demo Link](https://madhav2032.github.io/Temperature-Converter-Website/)
 </br>
