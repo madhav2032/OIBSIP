@@ -20,7 +20,7 @@ Welcome to the Oasis Infobyte Internship Projects repository! This repository co
 
    - [Demo Link](https://madhav2032.github.io/Personal-Portfolio-Website/)
 </br></br>
-3. **OASIS_WD_05 - Temprature Converter Website**
+3. **OASIS Task-3 - Temprature Converter Website**
     </br></br>
    <img alt="Weather App" src="https://github.com/madhav2032/OIBSIP/blob/main/Temperature%20Converter%20Website/temp.png" />
    - Description: This project is a simple yet powerful Temperature Converter built with HTML, CSS and JavaScript. Enter a temperature in Celsius, Fahrenheit, or Kelvin, and convert it to your desired unit!
